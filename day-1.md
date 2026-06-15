@@ -5,3 +5,5 @@
 - [ ] Learn about [GitHub Pages](https://skills.github.com/#first-day-on-github).
 - [ ] Convert my first blog post into an actual webpage.
 ## Review
+```bash
+git clone https://github.com/skills/communicate-using-markdown
