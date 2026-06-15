@@ -7,3 +7,5 @@
 ## Review
 ```bash
 git clone https://github.com/skills/communicate-using-markdown
+```javascript
+var myVar = "Hello, world!";
